@@ -8,3 +8,6 @@ Logiciel d’intelligence artificielle pour surveiller et structurer des informa
 
 ## [La Bouillotte 38](https://labouillotte38-fr.vercel.app)
 Association grenobloise : restaurant végétarien bio/local, café associatif et bar à événements. Tarifs solidaires, ateliers culturels, et espace de convivialité dans le quartier Chorier-Berriat.
+
+## [reypkn.fr](https://reypkn.fr)
+Site personnel en construction. À venir : portfolio et projets variés.
